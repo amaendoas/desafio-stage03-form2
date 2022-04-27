@@ -1,4 +1,5 @@
-# Desafio Stage 03
+# Desafio Formulário 2
+Criação de Formulário para fins educativos. Desafio do Explorer Stage 03.
 
 ## Tecnologias utilizadas
 HTML e CSS
